@@ -1,0 +1,16 @@
+Date,Category,Amount,Payment_Method,Description
+2026-01-01,Food,250,Cash,Lunch
+2026-01-02,Transport,100,UPI,Bus fare
+2026-01-03,Shopping,1500,Card,Clothes
+2026-01-04,Food,300,UPI,Dinner
+2026-01-05,Bills,2000,NetBanking,Electricity bill
+2026-01-06,Entertainment,500,Card,Movie
+2026-01-07,Food,200,Cash,Snacks
+2026-01-08,Transport,150,UPI,Auto
+2026-01-09,Health,800,Card,Medicine
+2026-01-10,Shopping,2200,UPI,Shoes
+2026-01-11,Food,350,Cash,Breakfast
+2026-01-12,Bills,1200,NetBanking,Internet
+2026-01-13,Entertainment,700,Card,Concert
+2026-01-14,Transport,90,Cash,Bus
+2026-01-15,Food,400,UPI,Lunch
